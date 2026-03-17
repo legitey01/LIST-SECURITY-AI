@@ -1,24 +1,12 @@
 
 
-<div align="center">
-
-<img src="./assets/github-banner.png" alt="List Security AI — AI Pentester for Web Applications and APIs" width="100%">
 
 # List Security AI — AI Pentester by List
 
-<a href="https://trendshift.io/repositories/15604" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15604" alt="KeygraphHQ%2Fshannon | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 List Security AI is an autonomous, white-box AI pentester for web applications and APIs. <br />
 It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
----
-
-
-<a href="https://discord.gg/9ZqQPuhJB7"><img src="./assets/discord.png" height="40" alt="Join Discord"></a>
-<a href="https://keygraph.io/"><img src="./assets/Keygraph_Button.png" height="40" alt="Visit Keygraph.io"></a>
-<a href="https://www.linkedin.com/company/keygraph/"><img src="./assets/linkedin.png" height="40" alt="Follow Us on Linkedin"></a>
-
----
 </div>
 
 ## 🎯 What is List Security AI?
@@ -40,11 +28,6 @@ List Security AI closes that gap by providing on-demand, automated penetration t
 >
 > **[Learn more at keygraph.io](https://keygraph.io)**
 
-## 🎬 List Security AI in Action
-
-List Security AI identified 20+ vulnerabilities in OWASP Juice Shop, including authentication bypass and database exfiltration. [Full report →](sample-reports/shannon-report-juice-shop.md)
-
-![Demo](assets/shannon-action.gif)
 
 ## ✨ Features
 
@@ -108,34 +91,6 @@ List Security AI Pro supports a self-hosted runner model (similar to GitHub Acti
 | **Boundary Analysis** | None | Automatic service boundary detection with team routing |
 
 [Full technical details →](./LIST-SECURITY-AI-PRO.md)
-
-## 📑 Table of Contents
-
-- [What is List Security AI?](#-what-is-list-security-ai)
-- [List Security AI in Action](#-list-security-ai-in-action)
-- [Features](#-features)
-- [Product Line](#-product-line)
-- [Setup & Usage Instructions](#-setup--usage-instructions)
-  - [Prerequisites](#prerequisites)
-  - [Quick Start](#quick-start)
-  - [Monitoring Progress](#monitoring-progress)
-  - [Stopping Shannon](#stopping-shannon)  - [Stopping Shannon](#stopping-shannon)
-  - [Usage Examples](#usage-examples)
-  - [Workspaces and Resuming](#workspaces-and-resuming)
-  - [Configuration (Optional)](#configuration-optional)
-  - [AWS Bedrock](#aws-bedrock)
-  - [Google Vertex AI](#google-vertex-ai)
-  - [Custom Base URL](#custom-base-url)
-  - [[EXPERIMENTAL - UNSUPPORTED] Router Mode (Alternative Providers)](#experimental---unsupported-router-mode-alternative-providers)
-  - [Output and Results](#output-and-results)
-- [Sample Reports](#-sample-reports)
-- [Benchmark](#-benchmark)
-- [Architecture](#️-architecture)
-- [Coverage and Roadmap](#-coverage-and-roadmap)
-- [Disclaimers](#️-disclaimers)
-- [License](#-license)
-- [Community & Support](#-community--support)
-- [Get in Touch](#-get-in-touch)
 
 ---
 
@@ -610,31 +565,6 @@ ohannonsource (AGPL v3). This license allows you to:
 The AGPL's sharing requirements primarily apply to organizations offering List Security AI as a public or managed service (such as a SaaS platform). In those specific cases, any modifications made to the core software must be open-sourced.
 
 
-## 👥 Community & Support
-
-### Community Resources
-
-📅 **1:1 Office Hours** — Thursdays, two time zones
-Book a free 15-min session for hands-on help with bugs, deployments, or config questions.
-→ US/EU: 10:00 AM PT  |  Asia: 2:00 PM IST
-→ [Book a slot](https://cal.com/george-flores-keygraph/shannon-community-office-hours)
-
-💬 [Join our Discord](https://discord.gg/cmctpMBXwE) to ask questions, share feedback, and connect with other List Security AI users.
-
-**Contributing:** At this time, we're not accepting external code contributions (PRs).  
-Issues are welcome for bug reports and feature requests.
-
-- 🐛 **Report bugs** via [GitHub Issues](https://github.com/KeygraphHQ/shannon/issues)
-- 💡 **Suggest features** in [Discussions](https://github.com/KeygraphHQ/shannon/discussions)
-
-### Stay Connected
-
-- 🐦 **Twitter**: [@KeygraphHQ](https://twitter.com/KeygraphHQ)
-- 💼 **LinkedIn**: [Keygraph](https://linkedin.com/company/keygraph)
-- 🌐 **Website**: [keygraph.io](https://keygraph.io)
-
-
-
 ## 💬 Get in Touch
 
 ### List Security AI Pro
@@ -646,8 +576,6 @@ List Security AI Pro is Keygraph's all-in-one AppSec platform. For organizations
     <img src="https://img.shields.io/badge/📋%20List%20Security%20AI%20Pro%20Inquiry-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="List Security AI Pro Inquiry">
   </a>
 </p>
-
-📧 **Email**: [list-security-ai@keygraph.io](mailto:list-security-ai@keygraph.io)
 
 ---
 
